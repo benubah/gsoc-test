@@ -24,7 +24,7 @@ projects. Mentors could also find co-mentors from a searchable list of past ment
 
 So in this project, the proposal is to curate the past accomplishments of R-GSoC in a data-driven manner that can help the R community
 discover and track R-GSoC projects, their students, mentors, and work-products. Developing it on GitHub will allow everyone of
-them contribute to it.
+them contribute to it. Displaying it as a dashboard will give a quick, summarized, but broad overview.
 
 
 ## Related Work
