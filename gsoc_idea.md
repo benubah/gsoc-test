@@ -42,7 +42,7 @@ This project hopes to update the [list of GSoC projects found under rstats-gsoc]
 
 - Completing mentor names that are incomplete, and making their names consistent throughout the list.
 - Add a column for Work Product classification for all 185 projects + this year's projects
-- Create a static dashboard web page based on Admin LTE or any open source Bootstrap dashboard template
+- Create a static dashboard (HTML/CSS/Javascript and Bootstrap) web page based on [Admin LTE](https://adminlte.io/) or any open source Bootstrap dashboard template
 - Automatically display the CSV list of GSoC projects as a DataTable that is searchable/sortable
 - Adding widgets and charts to the page (by analyzing the CSV list) that will possibly show the following:
   - Show count of unique mentors till date. (as widget)
@@ -56,6 +56,8 @@ This project hopes to update the [list of GSoC projects found under rstats-gsoc]
   - Number of projects funded till date (as widget)
   - Number of students participated till date (as widget)
   - Section to track what successful students are accomplishing in the present for the R community.
+
+Charts would be interactive (e.g. echarts.js) and would be automatically updated with widgets from the CSV file using Javascript.
 
 ## Expected Impact
 
