@@ -59,7 +59,7 @@ This project hopes to update the [list of GSoC projects found under rstats-gsoc]
 
 ## Expected Impact
 
-1. Could help students find mentors from past projects and help mentors find co-mentors.
+1. Could help students find mentors from past projects and help mentors find co-mentors. Also could help them and their projects get discovered.
 
 3. The URL for this web page could be added to the annual application to Google, to show how far R has been
    successful over the years.
