@@ -3,7 +3,7 @@
 The R community has participated in the Google Summer of Code (GSoC) since 2008 with a successful run over time.
 As the R community is expected to continue its expansion in a more data-driven world, the effective 
 utilization of programs such as Google Summer of Code could help increase the pace of R's user-base expansion, 
-diversity and adoption.
+diversity and adoption, globally.
 
 So far there has been **185 projects** done within the GSoC program under the R organization. There is no count of
 mentors that have participated so far, and on a year-by-year basis to understand the trend of mentorship and how
@@ -44,7 +44,7 @@ This project hopes to update the [list of GSoC projects found under rstats-gsoc]
 - Add a column for Work Product classification for all 185 projects + this year's projects
 - Create a static dashboard web page based on Admin LTE or any open source Bootstrap dashboard template
 - Automatically display the CSV list of GSoC projects as a DataTable that is searchable/sortable
-- Add widgets and charts to the page that will possibly show the following:
+- Adding widgets and charts to the page (by analyzing the CSV list) that will possibly show the following:
   - Show count of unique mentors till date. (as widget)
   - Show number of returning mentors
   - Show number of students returning as mentors (as widget)
@@ -77,6 +77,7 @@ This project hopes to update the [list of GSoC projects found under rstats-gsoc]
 
 ## Mentors
 
+Mentors needed. Would be great to also see former GSoC students who are now mentors sign up to mentor this project.
 
 ## Tests
 
